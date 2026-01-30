@@ -1,0 +1,3 @@
+olymptradeapi
+pandas-ta
+streamlit
