@@ -1,3 +1,2 @@
 streamlit
 pandas-ta
-git+https://github.com/vypalant/olymptradeapi.git
